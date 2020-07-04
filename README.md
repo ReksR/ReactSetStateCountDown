@@ -1,2 +1,2 @@
-# ReactSetStateCountDown
+# ReactPropsExampls
 Created with CodeSandbox
